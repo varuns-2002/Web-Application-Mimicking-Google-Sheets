@@ -4,7 +4,7 @@
 
 ## Screenshot:
 
-<b>[Experience it Live](https://main--comforting-biscotti-e87a56.netlify.app)</b>
+<b>[Experience it Live](https://web-application-mimicking-google-sheets-flax.vercel.app/)</b>
 
 <img src="./public/screenshot.png" alt="image-app"/>
 
